@@ -6100,7 +6100,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 256.54 231.14 0)
 			(effects
 				(font
@@ -6205,7 +6205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 218.44 332.74 0)
 			(effects
 				(font
@@ -6676,7 +6676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 180.34 281.94 0)
 			(effects
 				(font
@@ -6781,7 +6781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 370.84 332.74 0)
 			(effects
 				(font
@@ -6886,7 +6886,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 281.94 256.54 0)
 			(effects
 				(font
@@ -7113,7 +7113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 358.14 281.94 0)
 			(effects
 				(font
@@ -7218,7 +7218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 408.94 231.14 0)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 205.74 256.54 0)
 			(effects
 				(font
@@ -7983,7 +7983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 256.54 256.54 0)
 			(effects
 				(font
@@ -8332,7 +8332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 383.54 307.34 0)
 			(effects
 				(font
@@ -8559,7 +8559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 408.94 281.94 0)
 			(effects
 				(font
@@ -8664,7 +8664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 154.94 256.54 0)
 			(effects
 				(font
@@ -8769,7 +8769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 408.94 205.74 0)
 			(effects
 				(font
@@ -8874,7 +8874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 383.54 205.74 0)
 			(effects
 				(font
@@ -8979,7 +8979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 321.31 332.74 0)
 			(effects
 				(font
@@ -9206,7 +9206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 294.64 307.34 0)
 			(effects
 				(font
@@ -9555,7 +9555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 231.14 256.54 0)
 			(effects
 				(font
@@ -9662,7 +9662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:th_pogo_pins_4"
 			(at 471.17 27.94 0)
 			(effects
 				(font
@@ -9737,7 +9737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 358.14 205.74 0)
 			(effects
 				(font
@@ -9964,7 +9964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 307.34 231.14 0)
 			(effects
 				(font
@@ -10258,7 +10258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 205.74 205.74 0)
 			(effects
 				(font
@@ -10363,7 +10363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 332.74 281.94 0)
 			(effects
 				(font
@@ -10574,7 +10574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 332.74 231.14 0)
 			(effects
 				(font
@@ -10905,7 +10905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 205.74 307.34 0)
 			(effects
 				(font
@@ -11132,7 +11132,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 154.94 307.34 0)
 			(effects
 				(font
@@ -11237,7 +11237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 383.54 281.94 0)
 			(effects
 				(font
@@ -11342,7 +11342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 231.14 281.94 0)
 			(effects
 				(font
@@ -11813,7 +11813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 180.34 205.74 0)
 			(effects
 				(font
@@ -11986,7 +11986,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 180.34 231.14 0)
 			(effects
 				(font
@@ -12091,7 +12091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 180.34 307.34 0)
 			(effects
 				(font
@@ -12196,7 +12196,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 408.94 256.54 0)
 			(effects
 				(font
@@ -12667,7 +12667,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 358.14 256.54 0)
 			(effects
 				(font
@@ -12878,7 +12878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 231.14 307.34 0)
 			(effects
 				(font
@@ -13782,7 +13782,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 256.54 281.94 0)
 			(effects
 				(font
@@ -14009,7 +14009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 205.74 231.14 0)
 			(effects
 				(font
@@ -14114,7 +14114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 421.64 332.74 0)
 			(effects
 				(font
@@ -14219,7 +14219,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 358.14 307.34 0)
 			(effects
 				(font
@@ -14324,7 +14324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 281.94 281.94 0)
 			(effects
 				(font
@@ -14429,7 +14429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 358.14 231.14 0)
 			(effects
 				(font
@@ -14534,7 +14534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 434.34 231.14 0)
 			(effects
 				(font
@@ -14761,7 +14761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 307.34 281.94 0)
 			(effects
 				(font
@@ -15110,7 +15110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 383.54 256.54 0)
 			(effects
 				(font
@@ -16153,7 +16153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 269.24 332.74 0)
 			(effects
 				(font
@@ -16380,7 +16380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 307.34 205.74 0)
 			(effects
 				(font
@@ -16729,7 +16729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 307.34 256.54 0)
 			(effects
 				(font
@@ -16834,7 +16834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 180.34 256.54 0)
 			(effects
 				(font
@@ -17054,7 +17054,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 167.64 332.74 0)
 			(effects
 				(font
@@ -17159,7 +17159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 434.34 205.74 0)
 			(effects
 				(font
@@ -17264,7 +17264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 154.94 231.14 0)
 			(effects
 				(font
@@ -17558,7 +17558,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 231.14 205.74 0)
 			(effects
 				(font
@@ -17907,7 +17907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 434.34 281.94 0)
 			(effects
 				(font
@@ -18256,7 +18256,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 205.74 281.94 0)
 			(effects
 				(font
@@ -18483,7 +18483,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 434.34 307.34 0)
 			(effects
 				(font
@@ -19111,7 +19111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 256.54 205.74 0)
 			(effects
 				(font
@@ -19338,7 +19338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 281.94 205.74 0)
 			(effects
 				(font
@@ -19687,7 +19687,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 281.94 231.14 0)
 			(effects
 				(font
@@ -20036,7 +20036,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 332.74 256.54 0)
 			(effects
 				(font
@@ -20675,7 +20675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 434.34 256.54 0)
 			(effects
 				(font
@@ -20902,7 +20902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 231.14 231.14 0)
 			(effects
 				(font
@@ -21202,7 +21202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddbd71e0-d942-4de7-b2d1-3f697d87171c")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 505.46 31.7499 0)
 			(effects
 				(font
@@ -21220,7 +21220,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:th_pogo_pins_3"
 			(at 491.49 27.94 0)
 			(effects
 				(font
@@ -21259,7 +21259,7 @@
 		(instances
 			(project ""
 				(path "/c19feaf6-aecc-4469-9f12-5cd065a0782d"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -21916,7 +21916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 154.94 281.94 0)
 			(effects
 				(font
@@ -22021,7 +22021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 332.74 205.74 0)
 			(effects
 				(font
@@ -22193,7 +22193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 383.54 231.14 0)
 			(effects
 				(font
@@ -22542,7 +22542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TH-A1OC:tact_switch_4.5x4.5_PTS647"
 			(at 408.94 307.34 0)
 			(effects
 				(font
