@@ -15,10 +15,10 @@
 			)
 		)
 	)
-	(property "Value" "th_pogo_pads_4"
+	(property "Value" "${VALUE}"
 		(at 2.55 1.75 0)
 		(unlocked yes)
-		(layer "F.Fab")
+		(layer "F.SilkS")
 		(uuid "36dd5ded-0a26-41e5-aad0-0f0a54aaaf16")
 		(effects
 			(font
